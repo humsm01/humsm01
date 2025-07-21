@@ -8,6 +8,7 @@ I’m **Humberto**, a full-stack developer and computer science student at Colum
 * Mango is my favorite fruit
 
 #### Technical Skills:
+* iOS Development: Swift, SwiftUI, Core ML (learning), Xcode, Combine, App Store Connect
 * Languages: Python, Java, Kotlin, R, SQL, JavaScript, HTML/CSS
 * Frameworks & Tools: TensorFlow, Keras, FastAPI, Flask, Git, Docker, Linux, AWS EC2, Jupyter, VS Code, IntelliJ
 * Libraries: NumPy, pandas, Matplotlib, scikit-learn, seaborn
