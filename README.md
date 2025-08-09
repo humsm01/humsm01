@@ -2,8 +2,6 @@
 
 I’m **Humberto**, a full-stack developer and computer science student at Columbia University based in New York. I build systems that span from frontend design to backend infrastructure, with a focus on machine learning and healthcare. Outside of code and Figma, you’ll find me making new matcha latte recipes, building a new lego set, or journaling. 
 
-Visit my personal site @ https://humsm01.github.io/
-
 #### Fun Facts:
 
 * Avid chamomile tea enthusiast
